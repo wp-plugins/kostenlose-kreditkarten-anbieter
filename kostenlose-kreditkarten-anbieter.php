@@ -2,9 +2,9 @@
 /*
 Plugin Name: Kostenlose Kreditkarten-Anbieter
 Plugin URI: http://www.kreditkarten-1a.de/
-Description: Mit diesem Plugin k&ouml;nnen Sie einfach eine Tabelle mit den besten kostenlosen Kreditkarten-Anbieter in Seiten oder Artikeln anzeigen lassen. Support: [http://www.kreditkarten-1a.de/](http://www.kreditkarten-1a.de/)
-Version: 1.0
-Author: Ulrich Fielitz
+Description: Mit diesem Plugin koennen Sie einfach eine Tabelle mit den besten kostenlosen Kreditkarten-Anbietern in Seiten oder Artikeln des Blogs anzeigen lassen.. Support: [http://www.kreditkarten-1a.de/](http://www.kreditkarten-1a.de/)
+Version: 1.01
+Author: Michael Mueller
 Author URI: http://www.kreditkarten-1a.de/
 License: GPL3
 */
